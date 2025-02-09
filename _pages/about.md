@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome! :)
+
+I am currently a third-year graduate student in the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of Prof. Penghui Huang. Prior to this, I earned my Bachelor of Engineering degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC). My research interests include inverse synthetic aperture radar (ISAR) imaging, signal processing, wireless sensing, and artificial intelligence. I am excited to begin my PhD journey at City University of Hong Kong (CityU), Hong Kong SAR, under the supervision of Prof. Xianghao Yu.
 
 A data-driven personal website
 ======
