@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! :)
 
-I am currently a third-year graduate student in the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). Prior to this, I earned my Bachelor of Engineering degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC). I am excited to begin my PhD journey at City University of Hong Kong (CityU), Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). My research interests include inverse synthetic aperture radar (ISAR) imaging, signal processing, wireless sensing, and artificial intelligence.
+I am currently a third-year graduate student in the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). Prior to this, I obtained my Bachelor degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC). I am excited to begin my PhD journey at City University of Hong Kong (CityU) on September 2025, Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). My research interests include wireless sensing, signal processing and artificial intelligence.
 
 News
 ======
