@@ -28,14 +28,14 @@ under construction
 
 Educations
 ======
-* [2022-09 - 2025-03] Postgraduate student, Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU).  
+* [2022-09 - 2025-03] Postgraduate student, Department of Electronic Engineering, SJTU, Shanghai, China.  
 
-* [2018-09 - 2022-06] Undergraduate, School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC).  
+* [2018-09 - 2022-06] Undergraduate, School of Information and Communication Engineering, UESTC, Chengdu, China.  
 
 
 Experiences
 ======
-- **Research Intern** | [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR | July 2024 – September 2024  
+- **Research Intern** | [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR | Jul. 2024 – Aug. 2024  
   Supervisor: [Prof. Chenshu Wu](https://cswu.me)  
   Topic: Interpretable Complex-Valued Frequency Response Learning Framework for Non-Uniform CSI Data  
 
@@ -47,7 +47,7 @@ Awards
 ======
 * 2024 National Scholarship for Postgraduate Students at SJTU 
 * 2025 Outstanding Graduate of SJTU 
-* 2022, 2023, and 2024 First-Class Master's Academic Scholarship at SJTU 
+* 2022, 2023, and 2024 First-Class Master's Academic Scholarship at SJTU (Top 5%)
 * 2023-2024 Merit Student of SJTU
 
 <!-- Site-wide configuration
