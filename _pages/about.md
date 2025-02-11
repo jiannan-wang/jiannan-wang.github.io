@@ -15,28 +15,26 @@ I am excited to begin my PhD journey at City University of Hong Kong (CityU) on 
 
 News
 ======
-  * [***2025-02***]  One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
-
-  * [***2024-12***]  Awarded the Outstanding Graduate of SJTU.
-
-  * [***2024-11***]  Awarded the National Scholarship for Graduate Students at SJTU. Big moment in my life!!! 🥹🥹🥹
-
-  * [***2024-07***]  Two papers were accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).
-
-  * [***2024-07***]  Came to Hong Kong for my first internship.
+  * ***2025-02***  One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
+  * ***2024-12***  Awarded the Outstanding Graduate of SJTU.
+  * ***2024-11***  Awarded the National Scholarship for Graduate Students at SJTU. Big moment in my life!!! 🥹🥹🥹
+  * ***2024-07***  Two papers were accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).
+  * ***2024-07***  Came to Hong Kong for my first internship.
 
 
 Selected Publications
 ======
-under construction
+* [A Novel ISAR Imaging Approach for Moving Targets Utilizing Joint Particle Swarm Optimization and Time Polynomial Rescaling-Nonuniform FFT](https://ieeexplore.ieee.org/document/10604839)
+**Jiannan Wang**; Penghui Huang; Jingtao Ma; Xiang-Gen Xia; Muyang Zhan; Xingzhao Liu
+IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
+
 
 
 
 Educations
 ======
-* *2022-09 - 2025-03* Postgraduate, Department of Electronic Engineering, SJTU, Shanghai, China.  
-
-* *2018-09 - 2022-06* Undergraduate, School of Information and Communication Engineering, UESTC, Chengdu, China.  
+* *2022-09 - 2025-03*  Postgraduate, Department of Electronic Engineering, SJTU, Shanghai, China.  
+* *2018-09 - 2022-06*  Undergraduate, School of Information and Communication Engineering, UESTC, Chengdu, China.  
 
 
 
@@ -49,8 +47,6 @@ Experiences
 <!-- - [Other Experience] | [Institution Name], [Location] | [Time Period]  
   Advisor: [Advisor's Name]  
   Topic: [Research Topic]   -->
-
-
 
 
 Awards
