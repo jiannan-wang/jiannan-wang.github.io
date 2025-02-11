@@ -25,11 +25,11 @@ Selected Publications
 ======
 <small>#: corresponding author</small>
 
-* <span style="color: blue;">A Novel ISAR Imaging Approach for Moving Targets Utilizing Joint Particle Swarm Optimization and Time Polynomial Rescaling-Nonuniform FFT</span>  
+* <span style="color: blue;">[A Novel ISAR Imaging Approach for Moving Targets Utilizing Joint Particle Swarm Optimization and Time Polynomial Rescaling-Nonuniform FFT](https://ieeexplore.ieee.org/document/10604839)</span>  
 **Jiannan Wang**; Penghui Huang; Jingtao Ma; Xiang-Gen Xia; Muyang Zhan; Xingzhao Liu  
 IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
-* <span style="color: blue;">An Efficient Refocusing Method for Ground Moving Targets in Multichannel SAR Imagery</span>  
+* <span style="color: blue;">[An Efficient Refocusing Method for Ground Moving Targets in Multichannel SAR Imagery](https://ieeexplore.ieee.org/document/10620683)</span>  
  Jingtao Ma; Xiang-Gen Xia; **Jiannan Wang#**; Haihong Tao; Guisheng Liao; Penghui Huang
 IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
