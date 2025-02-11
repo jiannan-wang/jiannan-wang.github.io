@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! :)
 
-I am currently a third-year postgraduate student in the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). Before that, I obtained my B.Eng degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC) in 2022. I am excited to begin my PhD journey at City University of Hong Kong (CityU) on September 2025, Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). My research interests include wireless sensing, signal processing and artificial intelligence. My goal is to enhance the perception of targets by using signal processing and AI technologies.
+I am currently a third-year postgraduate student in the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). Before that, I obtained my B.Eng. degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC) in 2022. I am excited to begin my PhD journey at City University of Hong Kong (CityU) on September 2025, Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). My research interests include wireless sensing, signal processing and artificial intelligence. My goal is to enhance the perception of targets by using signal processing and AI technologies.
 
 News
 ======
@@ -17,9 +17,9 @@ News
 
   * [**2024-12**]  Awarded the Outstanding Graduate of SJTU.
 
-  [**2024-11**]  Awarded the National Scholarship for Graduate Students at SJTU.
+  * [**2024-11**]  Awarded the National Scholarship for Graduate Students at SJTU.
 
-  [**2024-07**]  Two papers were accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).
+  * [**2024-07**]  Two papers were accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).
 
 
 Selected Publications
@@ -28,15 +28,15 @@ under construction
 
 Educations
 ======
-* [2022-09 - 2025-03] Master's student at the Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU).  
+* [2022-09 - 2025-03] Postgraduate student, Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU).  
 
-* [2018-09 - 2022-06] Undergraduate at the School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC).  
+* [2018-09 - 2022-06] Undergraduate, School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC).  
 
 
 Experiences
 ======
-- **Summer Research Intern** | [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR | July 2024 – September 2024  
-  Advisor: [Prof. Chenshu Wu](https://cswu.me)  
+- **Research Intern** | [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR | July 2024 – September 2024  
+  Supervisor: [Prof. Chenshu Wu](https://cswu.me)  
   Topic: Interpretable Complex-Valued Frequency Response Learning Framework for Non-Uniform CSI Data  
 
 <!-- - [Other Experience] | [Institution Name], [Location] | [Time Period]  
@@ -45,8 +45,12 @@ Experiences
 
 Awards
 ======
+* 2024 National Scholarship for Postgraduate Students at SJTU 
+* 2025 Outstanding Graduate of SJTU 
+* 2022, 2023, and 2024 First-Class Master's Academic Scholarship at SJTU 
+* 2023-2024 Merit Student of SJTU
 
-Site-wide configuration
+<!-- Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
@@ -68,4 +72,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
