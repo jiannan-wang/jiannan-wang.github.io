@@ -9,15 +9,15 @@ redirect_from:
 
 Welcome! :)
 
-I am currently a third-year graduate student in the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). Prior to this, I obtained my Bachelor degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC). I am excited to begin my PhD journey at City University of Hong Kong (CityU) on September 2025, Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). My research interests include wireless sensing, signal processing and artificial intelligence.
+I am currently a third-year postgraduate student in the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). Before that, I obtained my B.Eng degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC) in 2022. I am excited to begin my PhD journey at City University of Hong Kong (CityU) on September 2025, Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). My research interests include wireless sensing, signal processing and artificial intelligence. My goal is to enhance the perception of targets by using signal processing and AI technologies.
 
 News
 ======
-  [**2025-02**]  One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
+  * [**2025-02**]  One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
 
-  [**2024-12**]  Awarded the title of Outstanding Graduate of Shanghai Jiao Tong University.
+  * [**2024-12**]  Awarded the Outstanding Graduate of SJTU.
 
-  [**2024-11**]  Awarded the National Scholarship for Graduate Students at Shanghai Jiao Tong University.
+  [**2024-11**]  Awarded the National Scholarship for Graduate Students at SJTU.
 
   [**2024-07**]  Two papers were accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).
 
@@ -25,6 +25,23 @@ News
 Selected Publications
 ======
 under construction
+
+Educations
+======
+* [2022-09 - 2025-03] Master's student at the Department of Electronic Engineering, Shanghai Jiao Tong University (SJTU).  
+
+* [2018-09 - 2022-06] Undergraduate at the School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC).  
+
+
+Experiences
+======
+- **Summer Research Intern** | [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR | July 2024 – September 2024  
+  Advisor: [Prof. Chenshu Wu](https://cswu.me)  
+  Topic: Interpretable Complex-Valued Frequency Response Learning Framework for Non-Uniform CSI Data  
+
+<!-- - [Other Experience] | [Institution Name], [Location] | [Time Period]  
+  Advisor: [Advisor's Name]  
+  Topic: [Research Topic]   -->
 
 Awards
 ======
