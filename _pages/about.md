@@ -39,8 +39,8 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 Educations
 ======
-* *2022-09 - 2025-03*  Postgraduate, Department of Electronic Engineering, SJTU, Shanghai, China.  
-* *2018-09 - 2022-06*  Undergraduate, School of Information and Communication Engineering, UESTC, Chengdu, China.  
+* **2022-09 - 2025-03**  Postgraduate, Department of Electronic Engineering, SJTU, Shanghai, China.  
+* **2018-09 - 2022-06**  Undergraduate, School of Information and Communication Engineering, UESTC, Chengdu, China.  
 
 Experiences
 ======
