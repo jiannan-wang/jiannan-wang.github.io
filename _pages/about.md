@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! :)
 
-I am currently a third-year postgraduate student in the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). My master's research focuses on Inverse Synthetic Aperture Radar (ISAR) imaging, particularly on motion compensation and parameter estimation. Before that, I obtained my B.Eng. degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC) in 2022. 
+I am currently a third-year postgraduate student in the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). My master's research focuses on inverse synthetic aperture radar (ISAR) imaging, particularly on motion compensation and parameter estimation. Before that, I obtained my B.Eng. degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC) in 2022. 
 
 I am excited to begin my PhD journey at City University of Hong Kong (CityU) on September 2025, Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). My research interests include wireless sensing, signal processing and artificial intelligence. My goal is always to enhance the perception of targets by using signal processing and AI technologies.
 
@@ -21,22 +21,16 @@ News
   * ***2024-07***  Two papers were accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).
   * ***2024-07***  Came to Hong Kong for my first internship.
 
-
 Selected Publications
 ======
 * [A Novel ISAR Imaging Approach for Moving Targets Utilizing Joint Particle Swarm Optimization and Time Polynomial Rescaling-Nonuniform FFT](https://ieeexplore.ieee.org/document/10604839)
 **Jiannan Wang**; Penghui Huang; Jingtao Ma; Xiang-Gen Xia; Muyang Zhan; Xingzhao Liu
 IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
-
-
-
 Educations
 ======
 * *2022-09 - 2025-03*  Postgraduate, Department of Electronic Engineering, SJTU, Shanghai, China.  
 * *2018-09 - 2022-06*  Undergraduate, School of Information and Communication Engineering, UESTC, Chengdu, China.  
-
-
 
 Experiences
 ======
@@ -47,7 +41,6 @@ Experiences
 <!-- - [Other Experience] | [Institution Name], [Location] | [Time Period]  
   Advisor: [Advisor's Name]  
   Topic: [Research Topic]   -->
-
 
 Awards
 ======
