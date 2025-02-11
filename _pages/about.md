@@ -13,11 +13,21 @@ I am currently a third-year graduate student in the Department of Electronic Eng
 
 News
 ======
-under construction
+**2025-02**  
+One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
+
+**2024-12**  
+Awarded the title of Outstanding Graduate of Shanghai Jiao Tong University.
+
+**2024-11**  
+Awarded the National Scholarship for Graduate Students at Shanghai Jiao Tong University.
 
 Selected Publications
 ======
 under construction
+
+Awards
+======
 
 Site-wide configuration
 ------
