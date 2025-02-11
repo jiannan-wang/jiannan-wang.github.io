@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -24,6 +24,10 @@ News
 Selected Publications
 ======
 <small>#: corresponding author</small>
+
+* <span style="color: blue;">A Novel ISAR Imaging Algorithm for a Maneuvering Target Based on Generalized Second-Order Time-Scaled Transform</span>  
+Jingtao Ma; **Jiannan Wang#**; Xiang-Gen Xia; Haihong Tao; Penghui Huang; Guisheng Liao
+IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2025
 
 * <span style="color: blue;">[A Novel ISAR Imaging Approach for Moving Targets Utilizing Joint Particle Swarm Optimization and Time Polynomial Rescaling-Nonuniform FFT](https://ieeexplore.ieee.org/document/10604839)</span>  
 **Jiannan Wang**; Penghui Huang; Jingtao Ma; Xiang-Gen Xia; Muyang Zhan; Xingzhao Liu  
