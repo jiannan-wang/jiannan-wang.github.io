@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<span style="color: #5B7AB8;">About Me</span>
+======
 Welcome! :)
 
 I am currently a third-year postgraduate student in the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). My master's research focuses on inverse synthetic aperture radar (ISAR) imaging, particularly on motion compensation and parameter estimation. Before that, I obtained my B.Eng. degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC) in 2022. 
@@ -55,10 +56,11 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 <span style="color: #5B7AB8;">Awards</span>
 ======
-* 2024 National Scholarship for Postgraduate Students at SJTU 
 * 2025 Outstanding Graduate of SJTU 
-* 2022, 2023, and 2024 First-Class Master's Academic Scholarship at SJTU (Top 5%)
+* 2024 National Scholarship for Postgraduate Students at SJTU 
 * 2023-2024 Merit Student of SJTU
+* 2023 and 2024 First-Class Master's Academic Scholarship at SJTU (1/126)
+* 2022 First-Class Master's Academic Scholarship at SJTU (Top 5%)
 
 <!-- 添加 Logo -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
