@@ -3,8 +3,8 @@ permalink: /
 title: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  # - /about/
+  # - /about.html
 ---
 <span style="color: #5B7AB8;">About Me</span>
 ======
@@ -45,8 +45,7 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 <span style="color: #5B7AB8;">Experiences</span>
 ======
-- **Research Intern**, *Jul. 2024 – Aug. 2024* 
-  [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR
+- **Research Intern**, *Jul. 2024 – Aug. 2024* | [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR
   **Supervisor**: [Prof. Chenshu Wu](https://cswu.me)  
   **Topic**: *Interpretable Complex-Valued Frequency Response Learning Framework for Non-Uniform CSI Data*  
 
@@ -65,60 +64,6 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 <span style="color: #5B7AB8;">Activities</span>
 ======
 * Ad Hoc Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
-
-
-<!-- 示例：显示访问量和位置地图 -->
-<div>
-  Total Visits: <span id="visitor-counter">Loading...</span>
-</div>
-
-<!-- 地图显示 -->
-<div id="visitor-map" style="height: 300px;"></div>
-
-<!-- 引入Leaflet.js -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-
-<script>
-  // 获取访问量
-  fetch('https://api.countapi.xyz/hit/your-username/your-key')
-    .then(res => res.json())
-    .then(data => {
-      document.getElementById('visitor-counter').innerHTML = data.value;
-    })
-    .catch(error => {
-      console.error('Error fetching visit data:', error);
-    });
-
-  // 获取用户位置并显示地图
-  fetch('https://ipinfo.io/json?token=8f8f2b934398c2')
-    .then(res => res.json())
-    .then(data => {
-      console.log(data); // 打印数据以调试
-      const { city, country, loc } = data;
-      const [lat, lng] = loc.split(',');
-      initMap(lat, lng, `${city}, ${country}`);
-    })
-    .catch(error => {
-      console.error('Error fetching location data:', error);
-    });
-
-  // 初始化地图函数
-  function initMap(lat, lng, title) {
-    const map = L.map('visitor-map').setView([lat, lng], 5);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
-    L.marker([lat, lng]).addTo(map).bindPopup(title);
-  }
-</script>
-
-<!-- 页面底部 -->
-<footer>
-  <div>
-    <h3>Visitor Statistics</h3>
-    <p>Total Visits: <span id="visitor-counter">0</span></p>
-  </div>
-</footer>
-
 
 <!-- 添加 Logo
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
