@@ -45,7 +45,8 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 <span style="color: #5B7AB8;">Experiences</span>
 ======
-- **Research Intern** | [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR | *Jul. 2024 – Aug. 2024* |
+- **Research Intern**, *Jul. 2024 – Aug. 2024* 
+  [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR
   **Supervisor**: [Prof. Chenshu Wu](https://cswu.me)  
   **Topic**: *Interpretable Complex-Valued Frequency Response Learning Framework for Non-Uniform CSI Data*  
 
@@ -71,6 +72,13 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
   Total Visits: <span id="visitor-counter">Loading...</span>
 </div>
 
+<!-- 地图显示 -->
+<div id="visitor-map" style="height: 300px;"></div>
+
+<!-- 引入Leaflet.js -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
 <script>
   // 获取访问量
   fetch('https://api.countapi.xyz/hit/your-username/your-key')
@@ -81,12 +89,7 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
     .catch(error => {
       console.error('Error fetching visit data:', error);
     });
-</script>
 
-<!-- 地图显示 -->
-<div id="visitor-map" style="height: 300px;"></div>
-
-<script>
   // 获取用户位置并显示地图
   fetch('https://ipinfo.io/json?token=8f8f2b934398c2')
     .then(res => res.json())
@@ -107,10 +110,6 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
     L.marker([lat, lng]).addTo(map).bindPopup(title);
   }
 </script>
-
-<!-- 引入Leaflet.js -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
 <!-- 页面底部 -->
 <footer>
