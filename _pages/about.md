@@ -11,7 +11,7 @@ Welcome! :)
 
 I am currently a third-year postgraduate student in the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). My master's research focuses on inverse synthetic aperture radar (ISAR) imaging, particularly on motion compensation and parameter estimation. Before that, I obtained my B.Eng. degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC) in 2022. 
 
-I am excited to begin my PhD journey at City University of Hong Kong (CityU) on September 2025, Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). My research interests include wireless sensing, signal processing and artificial intelligence. My goal is always to enhance the perception of targets by using signal processing and AI technologies.
+I am excited to begin my Ph.D. journey at City University of Hong Kong (CityU) on September 2025, Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). My research interests include wireless sensing, signal processing and artificial intelligence (AI). My objective is to enhance the perception of interested targets by using signal processing and AI technologies.
 
 <span style="color: #5B7AB8;">News</span>
 ======
@@ -44,7 +44,8 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 <span style="color: #5B7AB8;">Experiences</span>
 ======
-- **Research Intern** | [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR | *Jul. 2024 – Aug. 2024*  
+- **Research Intern**, *Jul. 2024 – Aug. 2024*  
+  [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR
   Supervisor: [Prof. Chenshu Wu](https://cswu.me)  
   Topic: Interpretable Complex-Valued Frequency Response Learning Framework for Non-Uniform CSI Data  
 
@@ -58,3 +59,11 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 * 2025 Outstanding Graduate of SJTU 
 * 2022, 2023, and 2024 First-Class Master's Academic Scholarship at SJTU (Top 5%)
 * 2023-2024 Merit Student of SJTU
+
+<!-- 添加 Logo -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <img src="cityu-logo.png" alt="Logo 1" style="width: 100px; height: auto;">
+  <img src="sjtu-logo.png" alt="Logo 2" style="width: 100px; height: auto;">
+  <img src="uestc-logo.png" alt="Logo 3" style="width: 100px; height: auto;">
+  <img src="hku-logo.png" alt="Logo 4" style="width: 100px; height: auto;">
+</div>
