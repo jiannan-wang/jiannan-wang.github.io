@@ -18,7 +18,7 @@ I am excited to begin my Ph.D. journey at City University of Hong Kong (CityU) o
 ======
   * **2025-02**  One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
   * **2024-12**  Awarded the Outstanding Graduate of SJTU.
-  * **2024-11**  Awarded the National Scholarship for Graduate Students at SJTU. Big moment in my life!!! 🥹🥹🥹
+  * **2024-11**  Awarded the National Scholarship for Graduate Students at SJTU.
   * **2024-07**  Two papers were accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).
   * **2024-07**  Came to Hong Kong for my internship.
 
