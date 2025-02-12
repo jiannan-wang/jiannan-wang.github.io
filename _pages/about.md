@@ -66,11 +66,13 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 * Ad Hoc Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 
 
-<!-- 示例：使用 CountAPI -->
+<!-- 示例：显示访问量和位置地图 -->
 <div>
-  总访问量: <span id="visitor-counter">Loading...</span>
+  Total Visits: <span id="visitor-counter">Loading...</span>
 </div>
+
 <script>
+  // 获取访问量
   fetch('https://api.countapi.xyz/hit/your-username/your-key')
     .then(res => res.json())
     .then(data => {
@@ -78,8 +80,11 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
     });
 </script>
 
-<div id="visitor-map" style="height: 200px;"></div>
+<!-- 地图显示 -->
+<div id="visitor-map" style="height: 300px;"></div>
+
 <script>
+  // 获取用户位置并显示地图
   fetch('https://ipinfo.io/json?token=8f8f2b934398c2')
     .then(res => res.json())
     .then(data => {
@@ -89,23 +94,25 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
       initMap(lat, lng, `${city}, ${country}`);
     });
 
+  // 初始化地图函数
   function initMap(lat, lng, title) {
     const map = L.map('visitor-map').setView([lat, lng], 5);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
     L.marker([lat, lng]).addTo(map).bindPopup(title);
   }
 </script>
+
 <!-- 引入Leaflet.js -->
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
-
-<!-- 在页面底部添加 -->
+<!-- 页面底部 -->
 <footer>
   <div>
-    <h3>访客统计</h3>
-    <p>累计访问量: <span id="visitor-counter">0</span></p>
-    <div id="visitor-map" style="height: 
+    <h3>Visitor Statistics</h3>
+    <p>Total Visits: <span id="visitor-counter">0</span></p>
+  </div>
+</footer>
 
 
 <!-- 添加 Logo -->
