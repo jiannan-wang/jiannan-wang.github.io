@@ -78,7 +78,7 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 <!-- Busuanzi Script -->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2lOEfjcuVDKUpRA6XLWq32KOZmwWJyCp3l1CL015wlE"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2lOEfjcuVDKUpRA6XLWq32KOZmwWJyCp3l1CL015wlE&cl=ffffff&w=a"></script>
 <!-- 添加 Logo
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <img src="cityu-logo.png" alt="Logo 1" style="width: 100px; height: auto;">
