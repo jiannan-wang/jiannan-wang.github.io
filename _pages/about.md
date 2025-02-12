@@ -45,7 +45,7 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 <span style="color: #5B7AB8;">Experiences</span>
 ======
-- **Research Intern** | [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR | *Jul. 2024 – Aug. 2024*
+- **Research Intern** | [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR | *Jul. 2024 – Aug. 2024* |
   **Supervisor**: [Prof. Chenshu Wu](https://cswu.me)  
   **Topic**: *Interpretable Complex-Valued Frequency Response Learning Framework for Non-Uniform CSI Data*  
 
@@ -77,6 +77,9 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
     .then(res => res.json())
     .then(data => {
       document.getElementById('visitor-counter').innerHTML = data.value;
+    })
+    .catch(error => {
+      console.error('Error fetching visit data:', error);
     });
 </script>
 
@@ -88,10 +91,13 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
   fetch('https://ipinfo.io/json?token=8f8f2b934398c2')
     .then(res => res.json())
     .then(data => {
+      console.log(data); // 打印数据以调试
       const { city, country, loc } = data;
       const [lat, lng] = loc.split(',');
-      // 调用地图库显示位置
       initMap(lat, lng, `${city}, ${country}`);
+    })
+    .catch(error => {
+      console.error('Error fetching location data:', error);
     });
 
   // 初始化地图函数
