@@ -45,16 +45,9 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 <span style="color: #5B7AB8;">Experiences</span>
 ======
-- **Research Intern**, *Jul. 2024 – Aug. 2024*  
-  [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR
-  Supervisor: [Prof. Chenshu Wu](https://cswu.me)  
-  Topic: Interpretable Complex-Valued Frequency Response Learning Framework for Non-Uniform CSI Data  
-
-- **Research Intern**  
-  *Jul. 2024 – Aug. 2024*  
-  [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR  
+- **Research Intern** | [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, University of Hong Kong, Hong Kong SAR | *Jul. 2024 – Aug. 2024*
   **Supervisor**: [Prof. Chenshu Wu](https://cswu.me)  
-  **Topic**: *Interpretable Complex-Valued Frequency Response Learning Framework for Non-Uniform CSI Data*
+  **Topic**: *Interpretable Complex-Valued Frequency Response Learning Framework for Non-Uniform CSI Data*  
 
 <!-- - [Other Experience] | [Institution Name], [Location] | [Time Period]  
   Advisor: [Advisor's Name]  
@@ -63,14 +56,14 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 <span style="color: #5B7AB8;">Awards</span>
 ======
 * 2025 Outstanding Graduate of SJTU 
-* 2024 National Scholarship for Postgraduate Students at SJTU 
+* 2024 National Scholarship for Graduate Students at SJTU 
 * 2023-2024 Merit Student of SJTU
 * 2023 and 2024 First-Class Master's Academic Scholarship at SJTU (1/126)
 * 2022 First-Class Master's Academic Scholarship at SJTU (Top 5%)
 
-<span style="color: #5B7AB8;">Awards</span>
+<span style="color: #5B7AB8;">Activities</span>
 ======
-* Review for IEEE TGRS
+* Ad Hoc Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 
 <!-- 添加 Logo -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
