@@ -65,6 +65,41 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 ======
 * Ad Hoc Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 
+
+<!-- 示例：使用 CountAPI -->
+<div>
+  总访问量: <span id="visitor-counter">Loading...</span>
+</div>
+<script>
+  fetch('https://api.countapi.xyz/hit/your-username/your-key')
+    .then(res => res.json())
+    .then(data => {
+      document.getElementById('visitor-counter').innerHTML = data.value;
+    });
+</script>
+
+<div id="visitor-map" style="height: 200px;"></div>
+<script>
+  fetch('https://ipinfo.io/json?token=8f8f2b934398c2')
+    .then(res => res.json())
+    .then(data => {
+      const { city, country, loc } = data;
+      const [lat, lng] = loc.split(',');
+      // 调用地图库显示位置
+      initMap(lat, lng, `${city}, ${country}`);
+    });
+
+  function initMap(lat, lng, title) {
+    const map = L.map('visitor-map').setView([lat, lng], 5);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+    L.marker([lat, lng]).addTo(map).bindPopup(title);
+  }
+</script>
+<!-- 引入Leaflet.js -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+
 <!-- 添加 Logo -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <img src="cityu-logo.png" alt="Logo 1" style="width: 100px; height: auto;">
