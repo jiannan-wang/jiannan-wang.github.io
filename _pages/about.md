@@ -45,7 +45,7 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 <span style="color: #5B7AB8;">Experiences</span>
 ======
-- **Research Intern**, *Jul. 2024 – Aug. 2024* | [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, The University of Hong Kong, Hong Kong SAR  
+- **Research Intern** | [AIoT Lab](https://aiot.hku.hk), Department of Computer Science, The University of Hong Kong, Hong Kong SAR | *Jul. 2024 – Aug. 2024*  
   **Supervisor**: [Prof. Chenshu Wu](https://cswu.me)  
   **Topic**: *Interpretable Complex-Valued Frequency Response Learning Framework for Non-Uniform CSI Data*  
 
