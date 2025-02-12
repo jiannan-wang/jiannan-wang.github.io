@@ -65,10 +65,11 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 ======
 * Ad Hoc Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 
+
 <!-- Visit Statistics -->
-<div class="visit-stats" style="margin: 20px 0; font-family: Arial, sans-serif; color: #666;">
+<div class="visit-stats" style="margin: 20px 0; font-family: Arial, sans-serif; color: #666; text-align: center;">
   <!-- Total Stats -->
-  <p>
+  <p style="font-size: 12px;">
     Total Visits: <span id="busuanzi_value_site_pv"></span> 
     <span style="margin: 0 10px">|</span>
     Total Visitors: <span id="busuanzi_value_site_uv"></span>
@@ -84,6 +85,18 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
     if (!document.getElementById('busuanzi_value_site_pv')) {
       console.error("Busuanzi statistics not loaded correctly.");
     }
+
+    // Ensure Total Visits and Total Visitors display correctly after loading
+    setTimeout(function() {
+      const totalVisits = document.getElementById('busuanzi_value_site_pv').textContent;
+      const totalVisitors = document.getElementById('busuanzi_value_site_uv').textContent;
+      
+      // If still showing default values, reset them manually (debugging purpose)
+      if (totalVisits === '' || totalVisitors === '') {
+        document.getElementById('busuanzi_value_site_pv').textContent = '1'; // Set to 1 for testing
+        document.getElementById('busuanzi_value_site_uv').textContent = '1'; // Set to 1 for testing
+      }
+    }, 1000);
   };
 </script>
 
