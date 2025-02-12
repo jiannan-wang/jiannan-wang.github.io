@@ -66,7 +66,7 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 * Ad Hoc Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 
 <!-- Visit Statistics -->
-<div class="visit-stats" style="margin: 20px 0; font-family: Arial; color: #666;">
+<div class="visit-stats" style="margin: 20px 0; font-family: Arial, sans-serif; color: #666;">
   <!-- Total Stats -->
   <p>
     Total Visits: <span id="busuanzi_value_site_pv"></span> 
@@ -78,7 +78,19 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 <!-- Busuanzi Script -->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2lOEfjcuVDKUpRA6XLWq32KOZmwWJyCp3l1CL015wlE&cl=ffffff&w=a"></script>
+<!-- Script to check if busuanzi has loaded properly -->
+<script>
+  window.onload = function() {
+    if (!document.getElementById('busuanzi_value_site_pv')) {
+      console.error("Busuanzi statistics not loaded correctly.");
+    }
+  };
+</script>
+
+<!-- Map Container -->
+<div class="map-container" style="width: 200px; height: 100px; margin: 20px auto;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2lOEfjcuVDKUpRA6XLWq32KOZmwWJyCp3l1CL015wlE&cl=ffffff&w=300&h=150"></script>
+</div>
 <!-- 添加 Logo
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <img src="cityu-logo.png" alt="Logo 1" style="width: 100px; height: auto;">
