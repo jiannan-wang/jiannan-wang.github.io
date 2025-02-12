@@ -73,7 +73,7 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
   Total visitors <span id="busuanzi_value_site_uv"></span><br>
 </div>
 
-<div style="text-align: center; width: 200px; margin: 0 auto;">
+<div style="text-align: center; width: 150px; margin: 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2lOEfjcuVDKUpRA6XLWq32KOZmwWJyCp3l1CL015wlE"></script>
 </div>
 
