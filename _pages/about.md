@@ -100,6 +100,14 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
 
+<!-- 在页面底部添加 -->
+<footer>
+  <div>
+    <h3>访客统计</h3>
+    <p>累计访问量: <span id="visitor-counter">0</span></p>
+    <div id="visitor-map" style="height: 
+
+
 <!-- 添加 Logo -->
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <img src="cityu-logo.png" alt="Logo 1" style="width: 100px; height: auto;">
