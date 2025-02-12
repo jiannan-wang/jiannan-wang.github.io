@@ -65,6 +65,20 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 ======
 * Ad Hoc Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 
+<!-- Visit Statistics -->
+<div class="visit-stats" style="margin: 20px 0; font-family: Arial; color: #666;">
+  <!-- Total Stats -->
+  <p>
+    Total Visits: <span id="busuanzi_value_site_pv"></span> 
+    <span style="margin: 0 10px">|</span>
+    Total Visitors: <span id="busuanzi_value_site_uv"></span>
+  </p>
+</div>
+
+<!-- Busuanzi Script -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2lOEfjcuVDKUpRA6XLWq32KOZmwWJyCp3l1CL015wlE"></script>
 <!-- 添加 Logo
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <img src="cityu-logo.png" alt="Logo 1" style="width: 100px; height: auto;">
