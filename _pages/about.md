@@ -65,45 +65,16 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 ======
 * Ad Hoc Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 
+</body>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>  
+Total visits<span id="busuanzi_value_site_pv"></span><br>
+Total visitors<span id="busuanzi_value_site_uv"></span><br>
 
-<!-- Visit Statistics -->
-<div class="visit-stats" style="margin: 20px 0; font-family: Arial, sans-serif; color: #666; text-align: center;">
-  <!-- Total Stats -->
-  <p style="font-size: 12px;">
-    Total Visits: <span id="busuanzi_value_site_pv"></span> 
-    <span style="margin: 0 10px">|</span>
-    Total Visitors: <span id="busuanzi_value_site_uv"></span>
-  </p>
-</div>
+<a href="https://clustrmaps.com/site/1c4ce"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=2lOEfjcuVDKUpRA6XLWq32KOZmwWJyCp3l1CL015wlE&cl=ffffff" /></a>
+</body>
 
-<!-- Busuanzi Script -->
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
-<!-- Script to check if busuanzi has loaded properly -->
-<script>
-  window.onload = function() {
-    if (!document.getElementById('busuanzi_value_site_pv')) {
-      console.error("Busuanzi statistics not loaded correctly.");
-    }
-
-    // Ensure Total Visits and Total Visitors display correctly after loading
-    setTimeout(function() {
-      const totalVisits = document.getElementById('busuanzi_value_site_pv').textContent;
-      const totalVisitors = document.getElementById('busuanzi_value_site_uv').textContent;
-      
-      // If still showing default values, reset them manually (debugging purpose)
-      if (totalVisits === '' || totalVisitors === '') {
-        document.getElementById('busuanzi_value_site_pv').textContent = '1'; // Set to 1 for testing
-        document.getElementById('busuanzi_value_site_uv').textContent = '1'; // Set to 1 for testing
-      }
-    }, 1000);
-  };
-</script>
-
-<!-- Map Container -->
-<div class="map-container" style="width: 200px; height: 100px; margin: 20px auto;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2lOEfjcuVDKUpRA6XLWq32KOZmwWJyCp3l1CL015wlE&cl=ffffff&w=300&h=150"></script>
-</div>
 <!-- 添加 Logo
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
   <img src="cityu-logo.png" alt="Logo 1" style="width: 100px; height: auto;">
