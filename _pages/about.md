@@ -66,7 +66,7 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 * Ad Hoc Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 
 
-<div style="text-align: center; font-size: 14px;">
+<!-- <div style="text-align: center; font-size: 14px;">
   Total visits <span id="busuanzi_value_site_pv"></span><br>
   Total visitors <span id="busuanzi_value_site_uv"></span><br>
 </div>
@@ -75,12 +75,12 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 <div style="text-align: center; width: 150px; margin: 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2lOEfjcuVDKUpRA6XLWq32KOZmwWJyCp3l1CL015wlE"></script>
-</div>
-
-<!-- 添加 Logo
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
-  <img src="cityu-logo.png" alt="Logo 1" style="width: 100px; height: auto;">
-  <img src="sjtu-logo.png" alt="Logo 2" style="width: 100px; height: auto;">
-  <img src="uestc-logo.png" alt="Logo 3" style="width: 100px; height: auto;">
-  <img src="hku-logo.png" alt="Logo 4" style="width: 100px; height: auto;">
 </div> -->
+
+<!-- 添加 Logo -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <img src="cityu-logo.png" alt="Logo 1" style="width: 100px; height: 100px;">
+  <img src="sjtu-logo.png" alt="Logo 2" style="width: 100px; height: 100px;">
+  <img src="uestc-logo.png" alt="Logo 3" style="width: 100px; height: 100px;">
+  <img src="hku-logo.png" alt="Logo 4" style="width: 100px; height: 100px;">
+</div>
