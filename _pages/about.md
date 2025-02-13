@@ -78,7 +78,7 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 </div> -->
 
 <!-- 添加 Logo -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; margin-top: 20px; gap: 20px;">
   <img src="cityu-logo.png" alt="Logo 1" style="width: 100px; height: 100px;">
   <img src="sjtu-logo.png" alt="Logo 2" style="width: 100px; height: 100px;">
   <img src="uestc-logo.png" alt="Logo 3" style="width: 100px; height: 100px;">
