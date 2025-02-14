@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Hello"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,11 +16,11 @@ I am excited to begin my Ph.D. journey at City University of Hong Kong (CityU) o
 
 <span style="color: #5B7AB8;">News</span>
 ======
-  * **2025-02**  One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
-  * **2024-12**  Awarded the Outstanding Graduate of SJTU.
-  * **2024-11**  Awarded the National Scholarship for Graduate Students at SJTU.
-  * **2024-07**  Two papers were accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).
-  * **2024-07**  Came to Hong Kong for my internship.
+  * **Feb. 2025**  One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
+  * **Dec. 2024**  Awarded the Outstanding Graduate of SJTU.
+  * **Nov. 2024**  Awarded the National Scholarship for Graduate Students at SJTU.
+  * **Jul. 2024**  Two papers were accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).
+  * **Jul. 2024**  Came to Hong Kong for my internship.
 
 <span style="color: #5B7AB8;">Selected Publications</span>
 ======
@@ -40,8 +40,8 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 <span style="color: #5B7AB8;">Educations</span>
 ======
-* **2022-09 - 2025-03**  Postgraduate, Department of Electronic Engineering, SJTU, Shanghai, China.  
-* **2018-09 - 2022-06**  Undergraduate, School of Information and Communication Engineering, UESTC, Chengdu, China.  
+* **Sep. 2022 - Mar. 2025**  M.S., Electronic Information | Department of Electronic Engineering, SJTU, Shanghai, China.  
+* **Sep. 2018 - Jun. 2022**  B.S., Communication Engineering | School of Information and Communication Engineering, UESTC, Chengdu, China.  
 
 <span style="color: #5B7AB8;">Experiences</span>
 ======
