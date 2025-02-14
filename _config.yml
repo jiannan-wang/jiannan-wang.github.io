@@ -13,7 +13,7 @@ title                    : "Jiannan Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Jiannan Wang"
 description              : &description "Welcome to Jiannan Wang's personal homepage."
-url                      : https://jiannan-wang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://jiannan-wang.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "jiannan-wang/jiannan-wang.github.io"
 
@@ -245,7 +245,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: post
+      layout: single
       author_profile: true
   # _teaching
   - scope:
