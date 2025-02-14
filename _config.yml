@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Jiannan Wang"
 description              : &description "Welcome to Jiannan Wang's personal homepage."
 url                      : https://jiannan-wang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "jiannan-wang/jiannan-wang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jiannan"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "Expectation, passion, appreciation"
   location         : "Shanghai"
   employer         : "Shanghai Jiao Tong University"
-  uri              : # URL
+  uri              : "https://jiannan-wang.github.io"
   email            : "wangjiannan2001@sjtu.edu.cn" 
 
   # Academic websites
