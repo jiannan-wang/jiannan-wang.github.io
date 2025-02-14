@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   # - /about/
@@ -41,8 +41,8 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 <span style="color: #5B7AB8;">Educations</span>
 ======
-* **Sep. 2022 - Mar. 2025**  M.S., Electronic Information, SJTU, Shanghai, China.  
-* **Sep. 2018 - Jun. 2022**  B.S., Communication Engineering, UESTC, Chengdu, China.  
+* **Sep. 2022 - Mar. 2025**  M.S. in Electronic Information, SJTU, Shanghai, China.  
+* **Sep. 2018 - Jun. 2022**  B.S. in Communication Engineering, UESTC, Chengdu, China.  
 
 <span style="color: #5B7AB8;">Experiences</span>
 ======
