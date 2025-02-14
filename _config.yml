@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiannan Wang's Homepage"
+title                    : "Jiannan Wang's Homepage - Shanghai Jiao Tong University"
 title_separator          : "-"
 name                     : &name "Jiannan Wang"
 description              : &description "Welcome to Jiannan Wang's personal homepage."
