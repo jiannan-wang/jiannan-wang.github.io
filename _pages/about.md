@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "Hello"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<span style="color: #5B7AB8;">About Me</span>
+<span style="color: #5B7AB8;">Welcome!</span>
 ======
-Welcome! :)
-
+<!-- Welcome! :) -->
 I am currently a third-year postgraduate student in the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). My master's research focuses on inverse synthetic aperture radar (ISAR) imaging, particularly on motion compensation and parameter estimation. Before that, I obtained my B.Eng. degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC) in 2022. 
 
 I am excited to begin my Ph.D. journey at City University of Hong Kong (CityU) on September 2025, Hong Kong SAR, under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). My research interests include wireless sensing, signal processing and artificial intelligence (AI). My objective is to enhance the perception of interested targets by using signal processing and AI technologies.
