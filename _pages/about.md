@@ -39,8 +39,8 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 Educations
 ======
-* $\mathcal{**Sep. 2022 - Mar. 2025**}$  M.S. in Electronic Information, SJTU, Shanghai, China.  
-* $\mathcal{**Sep. 2018 - Jun. 2022**}$  B.S. in Communication Engineering, UESTC, Chengdu, China.  
+* **Sep. 2022 - Mar. 2025**  M.S. in Electronic Information, SJTU, Shanghai, China.  
+* **Sep. 2018 - Jun. 2022**  B.S. in Communication Engineering, UESTC, Chengdu, China.  
 
 Experiences
 ======
@@ -54,8 +54,8 @@ Experiences
 
 Awards
 ======
-* 2025 Outstanding Graduate of SJTU 
-* 2024 National Scholarship for Graduate Students at SJTU 
+* 2025 **Outstanding Graduate** of SJTU 
+* 2024 **National Scholarship for Postgraduates** at SJTU 
 * 2023-2024 Merit Student of SJTU
 * 2023 and 2024 First-Class Master's Academic Scholarship at SJTU (**1/126**)
 * *2022* First-Class Master's Academic Scholarship at SJTU (**Top 5%**)
