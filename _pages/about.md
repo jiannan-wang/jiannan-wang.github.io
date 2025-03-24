@@ -15,6 +15,7 @@ I am excited to begin my Ph.D. journey at City University of Hong Kong (CityU) o
 
 <span style="color: #5B7AB8;">News</span>
 ======
+  * **Mar. 2025**  Graduated from SJTU. Forever thankful for my time at SJTU!
   * **Feb. 2025**  One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
   * **Dec. 2024**  Awarded the Outstanding Graduate of SJTU.
   * **Nov. 2024**  Awarded the National Scholarship for Graduate Students at SJTU.
