@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome! :)
 
-I am a incoming Ph.D. student in the Department of Electrical Engineering at City University of Hong Kong (CityU), under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). I am currently a visiting scholar at Southern University of Science and Technology (SusTech), working with [Prof. Weijie Yuan](https://www.sustech.edu.cn/zh/faculties/weijieyuan.html).
+I am an incoming Ph.D. student in the Department of Electrical Engineering at City University of Hong Kong (CityU), under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). Besides, I am currently a visiting scholar at Southern University of Science and Technology (SusTech), working with [Prof. Weijie Yuan](https://www.sustech.edu.cn/zh/faculties/weijieyuan.html).
 
 
 I obtained my M.Eng. degree from the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). My master's research focuses on inverse synthetic aperture radar (ISAR) imaging, particularly on motion compensation and parameter estimation. Before that, I obtained my B.Eng. degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC) in 2022. 
@@ -18,11 +18,12 @@ My research interests include wireless sensing and communication, signal process
 
 <span style="color: #5B7AB8;">News</span>
 ======
+  * **Apr. 2025**  Became a visiting scholar at SusTech, working with a wonderful team specialized on wireless communication.
   * **Apr. 2025**  Received Ph.D. offer from CityU. A new challenging but exciting journey starts!
   * **Mar. 2025**  Graduated from SJTU. Forever thankful for my time at SJTU!
   * **Feb. 2025**  One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
   * **Dec. 2024**  Awarded the Outstanding Graduate of SJTU.
-  * **Nov. 2024**  Awarded the National Scholarship for Graduate Students at SJTU.
+  * **Nov. 2024**  Awarded the National Scholarship for Postgraduate Students at SJTU.
   * **Jul. 2024**  Two papers were accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).
   * **Jul. 2024**  Came to Hong Kong for my internship.
 
@@ -42,6 +43,10 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
  Jingtao Ma; Xiang-Gen Xia; **Jiannan Wang#**; Haihong Tao; Guisheng Liao; Penghui Huang
 IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
+* <span style="color: blue;">[Linear-Geometry Distortion Correction for Bistatic Inverse Synthetic Aperture Radar Imaging Based on Deep Learning Model](https://ieeexplore.ieee.org/document/10640941)</span>  
+**Jiannan Wang**; Jingtao Ma; Penghui Huang; Shengqi Zhu; *et tc*.
+IEEE International Geoscience and Remote Sensing Symposium (**IGARSS**), 2024
+
 Educations
 ======
 * **Sep. 2022 - Mar. 2025**  M.S. in Electronic Information, SJTU, Shanghai, China.  
@@ -55,7 +60,7 @@ Experiences
 
 - **Visiting Scholar** | School of System Design and Intelligent Manufacturing, SusTech, Shenzhen, China | *Apr. 2025 – Aug. 2025*  
   **Supervisor**: [Prof. Weijie Yuan](https://www.sustech.edu.cn/zh/faculties/weijieyuan.html)  
-  <!-- **Topic**: *Near-field sensing of extended targets*  -->
+  **Topic**: *Near-field sensing and communication* 
 
 <!-- - [Other Experience] | [Institution Name], [Location] | [Time Period]  
   Advisor: [Advisor's Name]  
@@ -65,11 +70,18 @@ Awards
 ======
 * **Hong Kong Postgraduate Studentship (PGS)**
 * 2025 **Outstanding Graduate** of SJTU 
-* 2024 **National Scholarship for Postgraduates** at SJTU
-* 2023-2024 Merit Student of SJTU
+* 2024 **National Scholarship for Postgraduates**
+* 2024 Merit Student of SJTU
 * 2023 and 2024 First-Class Master's Academic Scholarship at SJTU (**1/126**)
 * 2022 First-Class Master's Academic Scholarship at SJTU (**Top 5%**)
 
 Activities
 ======
-* Ad Hoc Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+* Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+* Reviewer for Digital Signal Processing
+* 
+<div class="logo-container">
+  <img src="cityu-logo.png" alt="Partner 1" class="footer-logo">
+  <img src="sjtu-logo.png" alt="Partner 2" class="footer-logo">
+  <img src="uestc-logo.png" alt="Partner 3" class="footer-logo">
+</div>
