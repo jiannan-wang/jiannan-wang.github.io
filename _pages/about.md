@@ -112,7 +112,7 @@ Activities
     width: auto;
     object-fit: contain;
     transition: transform 0.3s ease;
-    filter: grayscale(100%);
+    filter: grayscale(0%);
     opacity: 0.7;
   }
   
