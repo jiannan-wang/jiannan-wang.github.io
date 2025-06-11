@@ -108,7 +108,7 @@ Activities
   }
   
   .footer-logo {
-    height: 60px;
+    height: 100px;
     width: auto;
     object-fit: contain;
     transition: transform 0.3s ease;
