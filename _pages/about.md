@@ -78,10 +78,56 @@ Awards
 Activities
 ======
 * Reviewer for IEEE Transactions on Geoscience and Remote Sensing (TGRS)
-* Reviewer for Digital Signal Processing
-* 
+* Reviewer for Digital Signal Processing (DSP)
+
+
+---
+
 <div class="logo-container">
-  <img src="cityu-logo.png" alt="Partner 1" class="footer-logo">
-  <img src="sjtu-logo.png" alt="Partner 2" class="footer-logo">
-  <img src="uestc-logo.png" alt="Partner 3" class="footer-logo">
+  <a href="https://www.cityu.edu.hk" target="_blank">
+    <img src="cityu-logo.png" alt="City University of Hong Kong" class="footer-logo">
+  </a>
+  <a href="https://www.sjtu.edu.cn" target="_blank">
+    <img src="sjtu-logo.png" alt="Shanghai Jiao Tong University" class="footer-logo">
+  </a>
+  <a href="https://www.uestc.edu.cn" target="_blank">
+    <img src="uestc-logo.png" alt="University of Electronic Science and Technology of China" class="footer-logo">
+  </a>
 </div>
+
+<style>
+  .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    margin: 50px 0;
+    padding: 20px 0;
+    border-top: 1px solid #eee;
+  }
+  
+  .footer-logo {
+    height: 60px;
+    width: auto;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+    filter: grayscale(100%);
+    opacity: 0.7;
+  }
+  
+  .footer-logo:hover {
+    transform: scale(1.05);
+    filter: grayscale(0%);
+    opacity: 1;
+  }
+  
+  @media (max-width: 768px) {
+    .logo-container {
+      gap: 20px;
+    }
+    .footer-logo {
+      height: 50px;
+    }
+  }
+</style>
