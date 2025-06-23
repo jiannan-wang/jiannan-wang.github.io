@@ -16,6 +16,7 @@ I obtained my M.Eng. degree from the Department of Electronic Engineering at Sha
 
 My research interests include wireless sensing and communication, signal processing and artificial intelligence (AI). My objective is to enhance the perception of interested targets by using signal processing and AI technologies.
 
+<div style="line-height: 1.3;">
 <span style="color: #5B7AB8;">News</span>
 ======
 
@@ -34,7 +35,7 @@ My research interests include wireless sensing and communication, signal process
   **Nov. 2024** Awarded the National Scholarship for Postgraduate Students. A big moment in my life! 🥹🥹
 
   **Jul. 2024** Two papers were accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).
-  
+
   **Jul. 2024** Came to Hong Kong for my internship.
 
 Selected Publications
