@@ -18,17 +18,16 @@ My research interests include wireless sensing and communication, signal process
 
 News
 ======
-<span style="color: #5B7AB8;">News</span>
-======
-<p style="margin: 0.3em 0;"><strong><span style="color: red;">New</span> Jun. 2025</strong> One paper has been submitted to IEEE Signal Processing Letters.</p>
-<p style="margin: 0.3em 0;"><strong><span style="color: red;">New</span> Apr. 2025</strong> Became a visiting scholar at SUSTech, working with a wonderful team specialized on wireless communication.</p>
-<p style="margin: 0.3em 0;"><strong>Apr. 2025</strong> Received Ph.D. offer from CityU. A new challenging but exciting journey starts!</p>
-<p style="margin: 0.3em 0;"><strong>Mar. 2025</strong> Graduated from SJTU. Forever thankful for my time at SJTU!</p>
-<p style="margin: 0.3em 0;"><strong>Feb. 2025</strong> One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).</p>
-<p style="margin: 0.3em 0;"><strong>Dec. 2024</strong> Awarded the Outstanding Graduate of SJTU.</p>
-<p style="margin: 0.3em 0;"><strong>Nov. 2024</strong> Awarded the National Scholarship for Postgraduate Students. A big moment in my life! 🥹🥹</p>
-<p style="margin: 0.3em 0;"><strong>Jul. 2024</strong> Two papers were accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).</p>
-<p style="margin: 0.3em 0;"><strong>Jul. 2024</strong> Came to Hong Kong for my internship.</p>
+<span style="color: #5B7AB8;"></span>
+<p style="margin: 0.5em 0;"><strong><span style="color: red;">New</span> Jun. 2025</strong> One paper has been submitted to IEEE Signal Processing Letters.</p>
+<p style="margin: 0.5em 0;"><strong><span style="color: red;">New</span> Apr. 2025</strong> Became a visiting scholar at SUSTech, working with a wonderful team specialized on wireless communication.</p>
+<p style="margin: 0.5em 0;"><strong>Apr. 2025</strong> Received Ph.D. offer from CityU. A new challenging but exciting journey starts!</p>
+<p style="margin: 0.5em 0;"><strong>Mar. 2025</strong> Graduated from SJTU. Forever thankful for my time at SJTU!</p>
+<p style="margin: 0.5em 0;"><strong>Feb. 2025</strong> One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).</p>
+<p style="margin: 0.5em 0;"><strong>Dec. 2024</strong> Awarded the Outstanding Graduate of SJTU.</p>
+<p style="margin: 0.5em 0;"><strong>Nov. 2024</strong> Awarded the National Scholarship for Postgraduate Students. A big moment in my life! 🥹🥹</p>
+<p style="margin: 0.5em 0;"><strong>Jul. 2024</strong> Two papers were accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).</p>
+<p style="margin: 0.5em 0;"><strong>Jul. 2024</strong> Came to Hong Kong for my internship.</p>
 
 
 Selected Publications
