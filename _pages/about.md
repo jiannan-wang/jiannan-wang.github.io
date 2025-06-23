@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome! :)
 
-I am an incoming Ph.D. student in the Department of Electrical Engineering at City University of Hong Kong (CityU), under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). Besides, I am currently a visiting scholar at Southern University of Science and Technology (SusTech).
+I am an incoming Ph.D. student in the Department of Electrical Engineering at City University of Hong Kong (CityU), under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). Besides, I am currently a visiting scholar at Southern University of Science and Technology (SUSTech).
 
 
 I obtained my M.Eng. degree from the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). My master's research focuses on inverse synthetic aperture radar (ISAR) imaging, particularly on motion compensation and parameter estimation. Before that, I obtained my B.Eng. degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC) in 2022. 
@@ -18,8 +18,10 @@ My research interests include wireless sensing and communication, signal process
 
 <span style="color: #5B7AB8;">News</span>
 ======
-  <span style="color: red; font-weight: bold;">[New]</span> * **Jun. 2025**  One paper has been submitted to IEEE Signal Processing Letters.
-  <span style="color: red; font-weight: bold;">[New]</span> * **Apr. 2025**  Became a visiting scholar at SusTech, working with a wonderful team specialized on wireless communication.
+  <span style="color: red; font-weight: bold;">[New]</span> * **Jun. 2025** * One paper has been submitted to IEEE Signal Processing Letters.
+
+  <span style="color: red; font-weight: bold;">[New]</span> * **Apr. 2025** * Became a visiting scholar at SusTech, working with a wonderful team specialized on wireless communication.
+
   * **Apr. 2025**  Received Ph.D. offer from CityU. A new challenging but exciting journey starts!
   * **Mar. 2025**  Graduated from SJTU. Forever thankful for my time at SJTU!
   * **Feb. 2025**  One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
@@ -51,9 +53,9 @@ IEEE International Geoscience and Remote Sensing Symposium (**IGARSS**), 2024
 
 Educations
 ======
-* **Sep. 2025 - Sep. 2029 (Expected)**  Ph.D. student in Electrical Engineering, CityU, Hong Kong, China.
-* **Sep. 2022 - Mar. 2025**  M.S. in Electronic Information, SJTU, Shanghai, China.  
-* **Sep. 2018 - Jun. 2022**  B.S. in Communication Engineering, UESTC, Chengdu, China.  
+* **2025 - 2029 (Expected)**  Ph.D. student in Electrical Engineering, CityU, Hong Kong, China.
+* **2022 - 2025**  M.S. in Electronic Information, SJTU, Shanghai, China.  
+* **2018 - 2022**  B.S. in Communication Engineering, UESTC, Chengdu, China.  
 
 Experiences
 ======
@@ -61,7 +63,7 @@ Experiences
   **Supervisor**: [Prof. Chenshu Wu](https://cswu.me)  
   **Topic**: *Interpretable Complex-Valued Frequency Response Learning Framework for Non-Uniform CSI Data*  
 
-- **Visiting Scholar** | School of System Design and Intelligent Manufacturing, SusTech, Shenzhen, China | *Apr. 2025 – Aug. 2025*  
+- **Visiting Scholar** | School of System Design and Intelligent Manufacturing, SUSTech, Shenzhen, China | *Apr. 2025 – Aug. 2025*  
   **Advisor**: [Prof. Weijie Yuan](https://www.sustech.edu.cn/zh/faculties/weijieyuan.html)  
   **Topic**: *Near-field sensing and communication* 
 
