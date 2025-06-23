@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome! :)
 
-I am an incoming Ph.D. student in the Department of Electrical Engineering at City University of Hong Kong (CityU), under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). Besides, I am currently a visiting scholar at Southern University of Science and Technology (SusTech), working with [Prof. Weijie Yuan](https://www.sustech.edu.cn/zh/faculties/weijieyuan.html).
+I am an incoming Ph.D. student in the Department of Electrical Engineering at City University of Hong Kong (CityU), under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). Besides, I am currently a visiting scholar at Southern University of Science and Technology (SusTech).
 
 
 I obtained my M.Eng. degree from the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). My master's research focuses on inverse synthetic aperture radar (ISAR) imaging, particularly on motion compensation and parameter estimation. Before that, I obtained my B.Eng. degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC) in 2022. 
@@ -18,7 +18,8 @@ My research interests include wireless sensing and communication, signal process
 
 <span style="color: #5B7AB8;">News</span>
 ======
-  * **Apr. 2025**  Became a visiting scholar at SusTech, working with a wonderful team specialized on wireless communication.
+  <span style="color: red; font-weight: bold;">[New]</span> * **Jun. 2025**  One paper has been submitted to IEEE Signal Processing Letters.
+  <span style="color: red; font-weight: bold;">[New]</span> * **Apr. 2025**  Became a visiting scholar at SusTech, working with a wonderful team specialized on wireless communication.
   * **Apr. 2025**  Received Ph.D. offer from CityU. A new challenging but exciting journey starts!
   * **Mar. 2025**  Graduated from SJTU. Forever thankful for my time at SJTU!
   * **Feb. 2025**  One paper was accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).
@@ -45,10 +46,12 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 * <span style="color: blue;">[Linear-Geometry Distortion Correction for Bistatic Inverse Synthetic Aperture Radar Imaging Based on Deep Learning Model](https://ieeexplore.ieee.org/document/10640941)</span>  
 **Jiannan Wang**; Jingtao Ma; Penghui Huang; Shengqi Zhu; *et tc*.
+
 IEEE International Geoscience and Remote Sensing Symposium (**IGARSS**), 2024
 
 Educations
 ======
+* **Sep. 2025 - Sep. 2029 (Expected)**  Ph.D. student in Electrical Engineering, CityU, Hong Kong, China.
 * **Sep. 2022 - Mar. 2025**  M.S. in Electronic Information, SJTU, Shanghai, China.  
 * **Sep. 2018 - Jun. 2022**  B.S. in Communication Engineering, UESTC, Chengdu, China.  
 
@@ -59,7 +62,7 @@ Experiences
   **Topic**: *Interpretable Complex-Valued Frequency Response Learning Framework for Non-Uniform CSI Data*  
 
 - **Visiting Scholar** | School of System Design and Intelligent Manufacturing, SusTech, Shenzhen, China | *Apr. 2025 – Aug. 2025*  
-  **Supervisor**: [Prof. Weijie Yuan](https://www.sustech.edu.cn/zh/faculties/weijieyuan.html)  
+  **Advisor**: [Prof. Weijie Yuan](https://www.sustech.edu.cn/zh/faculties/weijieyuan.html)  
   **Topic**: *Near-field sensing and communication* 
 
 <!-- - [Other Experience] | [Institution Name], [Location] | [Time Period]  
@@ -92,6 +95,12 @@ Activities
   </a>
   <a href="https://www.uestc.edu.cn" target="_blank">
     <img src="uestc-logo.png" alt="University of Electronic Science and Technology of China" class="footer-logo">
+  </a>
+  <a href="https://www.hku.hk" target="_blank">
+    <img src="hku-logo.png" alt="The University of Hong Kong" class="footer-logo">
+  </a>
+  <a href="https://www.sustech.edu.cn" target="_blank">
+    <img src="sustech-logo.png" alt="Southern University of Science and Technology" class="footer-logo">
   </a>
 </div>
 
