@@ -22,7 +22,7 @@ News
 <p style="margin: 0.5em 0;"><strong><span style="color: red;">New</span> Jun. 2025</strong> One paper has been submitted to IEEE Signal Processing Letters for possible publication.</p>
 <p style="margin: 0.5em 0;"><strong><span style="color: red;">New</span> Apr. 2025</strong> I become a visiting scholar at SUSTech, working with a great team specialized on wireless communication.</p>
 <p style="margin: 0.5em 0;"><strong>Apr. 2025</strong> I receive Ph.D. offer from CityU. A new challenging but exciting journey starts!</p>
-<p style="margin: 0.5em 0;"><strong>Mar. 2025</strong> I graduated from SJTU. Forever thankful for my time at SJTU!</p>
+<p style="margin: 0.5em 0;"><strong>Mar. 2025</strong> I graduate from SJTU. Forever thankful for my time at SJTU!</p>
 <p style="margin: 0.5em 0;"><strong>Feb. 2025</strong> One paper is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS).</p>
 <p style="margin: 0.5em 0;"><strong>Dec. 2024</strong> I am awarded the Outstanding Graduate of SJTU.</p>
 <p style="margin: 0.5em 0;"><strong>Nov. 2024</strong> I am awarded the National Scholarship. A big moment in my life! 🥹🥹</p>
