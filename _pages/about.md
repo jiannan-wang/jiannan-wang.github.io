@@ -16,7 +16,7 @@ I obtained my M.Eng. degree from the Department of Electronic Engineering at Sha
 
 My research interests include wireless sensing and communication, signal processing and artificial intelligence (AI). My objective is to enhance the perception of interested targets by using signal processing and AI technologies.
 
-<span style="font-style: italic; color: blue;">Feel free to contact me if you wanna any discussion or collaboration by [jiannanwang34@gmail.com](jiannanwang34@gmail.com)</span>:P
+<span style="font-style: italic; color: blue;">Feel free to contact me if you wanna any discussion or collaboration by jiannanwang34@gmail.com</span>
 
 News
 ======
