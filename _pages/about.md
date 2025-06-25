@@ -49,7 +49,7 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 * <span style="color: blue;">[Linear-Geometry Distortion Correction for Bistatic Inverse Synthetic Aperture Radar Imaging Based on Deep Learning Model](https://ieeexplore.ieee.org/document/10640941)</span>  
-**Jiannan Wang**; Jingtao Ma; Penghui Huang; Shengqi Zhu; *et tc*.
+ **Jiannan Wang**; Jingtao Ma; Penghui Huang; Shengqi Zhu; *et tc*.
  IEEE International Geoscience and Remote Sensing Symposium (**IGARSS**), 2024
 
 Educations
