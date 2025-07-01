@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
   # - jiannan-wang.github.io
 ---
-Welcome! :)
+Welcome! 🙋🙋🙋
 
 I am an incoming Ph.D. student in the Department of Electrical Engineering at City University of Hong Kong (CityU), under the supervision of [Prof. Xianghao Yu](https://www.ee.cityu.edu.hk/~alexyu/index.html). Besides, I am currently a visiting scholar at Southern University of Science and Technology (SUSTech).
 
@@ -16,7 +16,7 @@ I obtained my M.Eng. degree from the Department of Electronic Engineering at Sha
 
 My research interests include wireless sensing and communication, signal processing and artificial intelligence (AI). My objective is to enhance the perception of interested targets by using signal processing and AI technologies.
 
-<span style="font-style: italic; color: blue;">Feel free to contact me if you wanna any discussion or collaboration by jiannanwang34@gmail.com</span>
+<span style="font-style: italic; color: blue;">I would be happy if you wanna any discussion or collaboration with me, feel free to contact me by jiannanwang34@gmail.com :)</span>
 
 News
 ======
@@ -50,7 +50,7 @@ IEEE Geoscience and Remote Sensing Letters (**GRSL**), 2024
 
 * <span style="color: blue;">[Linear-Geometry Distortion Correction for Bistatic Inverse Synthetic Aperture Radar Imaging Based on Deep Learning Model](https://ieeexplore.ieee.org/document/10640941)</span>  
  **Jiannan Wang**; Jingtao Ma; Penghui Huang; Shengqi Zhu; *et tc*.
- IEEE International Geoscience and Remote Sensing Symposium (**IGARSS**), 2024
+ \\ IEEE International Geoscience and Remote Sensing Symposium (**IGARSS**), 2024
 
 Educations
 ======
@@ -143,3 +143,5 @@ Activities
     }
   }
 </style>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2lOEfjcuVDKUpRA6XLWq32KOZmwWJyCp3l1CL015wlE&cl=ffffff&w=a"></script>
