@@ -14,7 +14,7 @@ I am an incoming Ph.D. student in the Department of Electrical Engineering at Ci
 
 I obtained my M.Eng. degree from the Department of Electronic Engineering at Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Penghui Huang](https://ee.sjtu.edu.cn/FacultyDetail.aspx?id=55&infoid=66&flag=66). My master's research focuses on inverse synthetic aperture radar (ISAR) imaging, particularly on motion compensation and parameter estimation. Before that, I obtained my B.Eng. degree from the School of Information and Communication Engineering at the University of Electronic Science and Technology of China (UESTC) in 2022. 
 
-My research interests include wireless sensing and communication, signal processing and artificial intelligence (AI). My objective is to enhance the perception of interested targets by using signal processing and AI technologies.
+My research interests include wireless sensing and communication, signal processing and artificial intelligence (AI). My objective is to enhance the perception of interested targets by using signal processing and AI technologies. 💭💭
 
 <span style="font-style: italic; color: blue;">I would be happy if you wanna any discussion or collaboration with me, feel free to contact me by jiannanwang34@gmail.com :)</span>
 
@@ -144,4 +144,14 @@ Activities
   }
 </style>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2lOEfjcuVDKUpRA6XLWq32KOZmwWJyCp3l1CL015wlE&cl=ffffff&w=a"></script>
+
+<div style="text-align: center; padding: 20px 0;">
+  <h3>Visitor Statistics</h3>
+  <div style="width: 180px; margin: 0 auto;">
+    <script 
+      type="text/javascript" 
+      id="clustrmaps" 
+      src="//clustrmaps.com/map_v2.js?d=2lOEfjcuVDKUpRA6XLWq32KOZmwWJyCp3l1CL015wlE&cl=ffffff&w=a">
+    </script>
+  </div>
+</div>
